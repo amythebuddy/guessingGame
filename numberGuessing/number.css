@@ -1,0 +1,37 @@
+.box{
+    width: 45%;
+    border: 3px silver solid;
+    background-color: black;
+    color: hotpink;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+.guessing{
+    padding: 5rem 0 10rem 0;
+}
+p{
+    font-size: 1.5rem;
+}
+h3{
+    padding: 0 3rem;
+}
+input{
+    text-align: center;
+    height: 1.5rem;
+    width: 2rem;
+    border-radius: 5px;
+    margin: 0 0 1rem 0;
+}
+button{
+    background-color: rgb(229, 229, 35);
+    width: 5rem;
+    height: 2rem;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.1rem;
+}
+button:hover{
+    font-weight: 900;
+    background-color: rgb(213, 207, 30);
+}
